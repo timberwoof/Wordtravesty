@@ -1,0 +1,1 @@
+<?php# open the rating-table database#echo ("connect-"); # ***$link = mysql_connect ('localhost','travester','arf42') or 	die (mysql_error());#echo ("select-"); # ***$RatingDatabase = mysql_select_db ('wtravesty') or 	die (mysql_error());#echo ("done<br>"); # ***$have_link = 1;?>
